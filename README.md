@@ -53,3 +53,7 @@ sass/
 | 
 `– main.scss             # primary Sass file 
 ```
+
+## Sources
+
+[Sass architecture](http://www.sitepoint.com/architecture-sass-project/)
