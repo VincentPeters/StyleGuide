@@ -1,5 +1,9 @@
-StyleGuide
+Coding StyleGuide
 ==========
+
+## .gitignore
+
+Always use a gitignore file, especially when using specific IDE's as PhpStorm or WebStorm. You can use this predefined one for basic javascript/web development: [https://github.com/VincentPeters/gitignore/blob/master/.gitignore](A basic webdev .gitignore)
 
 ## Sass
 
@@ -53,6 +57,7 @@ sass/
 | 
 `– main.scss             # primary Sass file 
 ```
+
 
 ## Sources
 
