@@ -3,7 +3,7 @@ Coding StyleGuide
 
 ## .gitignore
 
-Always use a gitignore file, especially when using specific IDE's as PhpStorm or WebStorm. You can use this predefined one for basic javascript/web development: [https://github.com/VincentPeters/StyleGuide/blob/master/.gitignore](A basic webdev .gitignore)
+Always use a gitignore file, especially when using specific IDE's as PhpStorm or WebStorm. You can use this predefined one for basic javascript/web development: [A basic webdev .gitignore](https://github.com/VincentPeters/StyleGuide/blob/master/.gitignore)
 
 ## Sass
 
@@ -62,7 +62,7 @@ You can use this architecture I included with this repository. It also contains 
 
 ## API design
 
-Read this for a good API styleguide: [https://github.com/interagent/http-api-design](HTTP API Design Guide)
+Read this for a good API styleguide: [HTTP API Design Guide](https://github.com/interagent/http-api-design)
 
 ## Sources
 
