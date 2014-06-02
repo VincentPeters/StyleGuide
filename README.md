@@ -60,6 +60,10 @@ sass/
 
 You can use this architecture I included with this repository. It also contains some handy mixins, functions and vendor includes.
 
+## API design
+
+Read this for a good API styleguide: [https://github.com/interagent/http-api-design](HTTP API Design Guide)
+
 ## Sources
 
 [Sass architecture](http://www.sitepoint.com/architecture-sass-project/)
